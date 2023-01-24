@@ -24,27 +24,27 @@ let myDreamCars = [“Charger”, “Cayenne”, “Cyber Truck”, “G Wagon�
 
 // Remove the first element
 
-let myDreamCars = [“Charger”, “Cayenne”, “Cyber Truck”, “G Wagon”, “Civic"]
+// let myDreamCars = [“Charger”, “Cayenne”, “Cyber Truck”, “G Wagon”, “Civic"]
 
-let removeFirst = myDreamCars.slice(1)
+// let removeFirst = myDreamCars.slice(1)
 
-console.log(removeFirst)
-
-
-// Add your dream car as the new first element
-
-const AddDreamCar = myDreamCars.unshift("Audi R8");
-console.log(AddDreamCar);
+// console.log(removeFirst)
 
 
-// Remove the last element
+// // Add your dream car as the new first element
 
-const removeLast = myDreamCars.shift()
-console.log(removeLast);
+// const AddDreamCar = myDreamCars.unshift("Audi R8");
+// console.log(AddDreamCar);
 
 
-// Add your first car as the new last element
+// // Remove the last element
 
-const addFirstCarLast = myDreamCars.push("Mazda 3")
-console.log(addFirstCarLast)
+// const removeLast = myDreamCars.shift()
+// console.log(removeLast);
+
+
+// // Add your first car as the new last element
+
+// const addFirstCarLast = myDreamCars.push("Mazda 3")
+// console.log(addFirstCarLast)
 
